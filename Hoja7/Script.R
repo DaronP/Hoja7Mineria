@@ -1,0 +1,10 @@
+install.packages("nnet")
+install.packages("RWeka")
+install.packages("neuralnet")
+
+library(caret)
+library(nnet)
+library(RWeka)
+library(neural)
+library(dummy)
+library(neuralnet)
